@@ -21,6 +21,9 @@ Archivo.ipynb: En este archivo se encuentran los códigos y las conclusiones de 
 datos_estudio.csv: Este archivo contiene los datos que han sido utilizados para llevar a cabo el análisis y entrenar los modelos de Machine Learning. Los datos se presentan en formato Excel y están organizados en columnas significativas para el proyecto. Es importante asegurarse de que este archivo esté disponible para que el código del archivo.ipynb pueda acceder y procesar los datos correctamente.
 
 Por favor, siéntase libre de explorar el repositorio, revisar el código y las conclusiones, y utilizar los datos para cualquier propósito de investigación o estudio. Cualquier comentario, sugerencia o contribución adicional será bienvenida y puede enviarse a través de los problemas o solicitudes de extracción en GitHub.
+
+
+Github tiene problemas para leer la biblioteca Plotly. Recomendamos descargar el ipynb para ver los graficos
  
   
 
